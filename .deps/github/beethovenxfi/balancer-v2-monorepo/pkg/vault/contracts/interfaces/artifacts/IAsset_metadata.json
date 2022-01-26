@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.7.6+commit.7338295f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "This is an empty interface used to represent either ERC20-conforming token contracts or ETH (using the zero address sentinel value). We're just relying on the fact that `interface` can be used to declare new address-like types. This concept is unrelated to a Pool's Asset Managers.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			".deps/github/beethovenxfi/balancer-v2-monorepo/pkg/vault/contracts/interfaces/IAsset.sol": "IAsset"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		".deps/github/beethovenxfi/balancer-v2-monorepo/pkg/vault/contracts/interfaces/IAsset.sol": {
+			"keccak256": "0x70ecf1d48c285d78718bd2e159345677038ed8a81c74444bedd6a5c61af9aff6",
+			"license": "GPL-3.0-or-later",
+			"urls": [
+				"bzz-raw://8c7c210e449ea5d284abeaaed82e3bb3c203b57d8b3e5dfb6daedf76eaae31d1",
+				"dweb:/ipfs/QmfJWLPhCG6PcHNJMLNDbAM6nd2ZVFCexCXvJ9qQmRaNbn"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.7.6+commit.7338295f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "data",
+				"outputs": [
+					{
+						"internalType": "bytes",
+						"name": "",
+						"type": "bytes"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "eeee",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"encode.sol": "ENcode"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"encode.sol": {
+			"keccak256": "0x5d71d8f40639c8d206ebd7697bd46b5bb7b23a2e4fdba00c20d9205006bb3ab7",
+			"urls": [
+				"bzz-raw://4d9e8793a8483ec6ee644d6d81145e402832cbef55e6803b3e7b1dcc7810e12c",
+				"dweb:/ipfs/QmTJCPbvnFdmVEhNWbK9JgHR6WxMXub2hXDNSrQ9JrE8pF"
+			]
+		}
+	},
+	"version": 1
+}

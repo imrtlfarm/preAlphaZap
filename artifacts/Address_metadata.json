@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.7.6+commit.7338295f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Collection of functions related to the address type",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"beefyzap.sol": "Address"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"beefyzap.sol": {
+			"keccak256": "0xe688f3f19ed96d95776f9feac3e53211fb12915a9c76f49cd902f886a45239b8",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e55c4d503c48712d985abec430235410a3b9cf3ad871a58132637fec8f8961eb",
+				"dweb:/ipfs/QmeveCitKmuRSXvB5Mu27GazGpkopSJDVhYjTVQgqabKFU"
+			]
+		}
+	},
+	"version": 1
+}
