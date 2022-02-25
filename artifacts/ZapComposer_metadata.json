@@ -236,7 +236,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"ZapComp.sol": "ZapComposer"
+			"Documents/GitHub/preAlphaZap/ZapComp.sol": "ZapComposer"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -282,14 +282,14 @@
 				"dweb:/ipfs/QmPB8qWcRPZaDsASgQpf5a6i2YrZ4TDV3Ebi25Mn9EAdf4"
 			]
 		},
-		"LBPComptroller.sol": {
+		"Documents/GitHub/preAlphaZap/LBPComptroller.sol": {
 			"keccak256": "0xe38864b6e3f12aeb6fdfac8136cd317d985014a747d3695ab53090cdb082ffd3",
 			"urls": [
 				"bzz-raw://1e48c56a7ccc5a917c3f2de3c067b25e0103a17ab2cc1be3452136101c1ef7d0",
 				"dweb:/ipfs/QmTW3FiFHNySeomyUXxBRn65o2eUuAJj6cnWZZVybSmieD"
 			]
 		},
-		"ZapComp.sol": {
+		"Documents/GitHub/preAlphaZap/ZapComp.sol": {
 			"keccak256": "0xf147825f0a93034950b075ed0be0c1bdf50f96c60181ead692b64ff650775199",
 			"urls": [
 				"bzz-raw://8df688142b8538998113a53abcb4907c1af8244c7c5557a1a12d35a83e5e85b8",
@@ -345,11 +345,11 @@
 			]
 		},
 		"https://github.com/beethovenxfi/balancer-v2-monorepo/blob/master/pkg/vault/contracts/interfaces/IVault.sol": {
-			"keccak256": "0x343206fdb5711138fef28566369162ea6292c9aab299f428465f88f333a4054f",
+			"keccak256": "0x8a0904cb11d6571fdc0051b2de6b675d0e1cf8af45c1a5467d047812f1086223",
 			"license": "GPL-3.0-or-later",
 			"urls": [
-				"bzz-raw://5d3dfd77c95d56fe5c2e337b0fcd228a80445b739d898f10982d964f0a652c70",
-				"dweb:/ipfs/Qmbge4HxQV7LaG6MYYmF4v7G7t3YC2JhhHKTmQdxgyZaUV"
+				"bzz-raw://e428d19d1bd18504c5c8a797b0a80515072f4d7fc278df73b9fec0ab8efe155d",
+				"dweb:/ipfs/QmYeJPPQKAckBVvuhU9XXiZR4aSrVNu3WcfTmSsXJJYey3"
 			]
 		}
 	},
